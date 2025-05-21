@@ -6,7 +6,7 @@
 
 #### Нужно подготовить:
 
- Устанавливаем [Python 3] (https://www.python.org/downloads/). Также заводим аккаунт в [VK](https://vk.com)
+ Устанавливаем [Python 3](https://www.python.org/downloads/). Также заводим аккаунт в [VK](https://vk.com)
  Затем используем 'pip' (или 'pip3', есть конфликт с Python2)
  pip install -r requirements.txt
 
