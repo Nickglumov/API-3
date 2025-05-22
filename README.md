@@ -15,7 +15,7 @@
 а именно заходим в командную строку (win+R, после вводим cmd и Enter)
 и вводим:
 1) git clone https://github.com/Nickglumov/API-3  
-2)cd vk-short-link-tool
+2) cd vk-short-link-tool
 
 #### Создаем и активируем виртуальное окружение:
 python -m venv venv
