@@ -74,8 +74,8 @@ ValueError: Переменная окружения VK_TOKEN не найдена
 
 #### Как задать VK_TOKEN
 Создайте рядом со скриптом файл .env, и вставьте туда:
-VK_TOKEN=ваш_токен_от_VK
-Пример:
+VK_TOKEN=ваш_токен_от_VK  
+Пример:  
 VK_TOKEN=3f4d1ab23489f2e9ac7bd8a3f0e73e8a4b91a0cfxxxxxxxxxxxxxxxxx
 
 
